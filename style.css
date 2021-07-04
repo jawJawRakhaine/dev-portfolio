@@ -31,6 +31,14 @@ h2 {
 .half-width img {
   width: 80%;
 }
+.dream-big {
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.dream-big-txt {
+  margin-right: 10%;
+}
 .hire-me-btn,
 .download-resume-btn {
   text-decoration: none;
