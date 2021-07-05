@@ -49,6 +49,10 @@ h2 {
   border-radius: 5px;
   font-weight: bolder;
 }
+.exp-text {
+  text-align: center;
+  color: salmon;
+}
 .exp-area {
   background-image: url(exp-bg.png);
   background-repeat: no-repeat;
